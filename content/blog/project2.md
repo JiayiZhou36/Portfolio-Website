@@ -1,0 +1,6 @@
++++
+title = "Data Mining on Energy Company Stocks"
+date = 2022-12-05
++++
+
+The project studies climate change by studying the stocks of green energy and fossil fuel companies. With clustering, association analysis, and estimation, we study the trend of stocks, predict the future trend, and give recommendations on investing in energy stocks. We performed K-Means clustering, ran the apriori algorithm with the transaction list for association analysis, and used linear regression, support vector machines, decision trees, and random forest under blocking time series splitting and normal time series splitting. As a result, it is good to invest in STEM, FSLR, SEDG, ENPH, FREY, ORA, AES, NOVA, and THR. Green energy stocks have higher potential than fossil fuel stocks. In the future, we should focus more on diversification to design portfolios with high returns and low risks by performing more analysis. Here is the link: [Project Link](https://github.com/JiayiZhou36/Fall2022_DataMining_FinalProject).
