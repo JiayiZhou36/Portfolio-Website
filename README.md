@@ -10,6 +10,12 @@
 ### Purpose
 This project creates a static site with Zola, a Rust static site generator, that will hold all of the portofolio work in this class.
 
+### Components
+1. Static site generated with Zola
+2. Home page and portfolio project page templates
+3. Styled with CSS
+4. GitLab repo with source code
+
 ### Preparation
 1. Install Zola 
 2. Create website with `zola init`
